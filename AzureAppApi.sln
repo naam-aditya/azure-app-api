@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAppApi", "AzureAppApi\AzureAppApi.csproj", "{651585B9-D85D-438D-8690-8C9E33B764DE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAppApi.Mvc", "AzureAppApi.Mvc\AzureAppApi.Mvc.csproj", "{4823317A-56BE-4643-9198-BD7BBA60E591}"
 EndProject
 Global
@@ -16,10 +14,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{651585B9-D85D-438D-8690-8C9E33B764DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{651585B9-D85D-438D-8690-8C9E33B764DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{651585B9-D85D-438D-8690-8C9E33B764DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{651585B9-D85D-438D-8690-8C9E33B764DE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4823317A-56BE-4643-9198-BD7BBA60E591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4823317A-56BE-4643-9198-BD7BBA60E591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4823317A-56BE-4643-9198-BD7BBA60E591}.Release|Any CPU.ActiveCfg = Release|Any CPU
