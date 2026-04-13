@@ -1,0 +1,6 @@
+@WebApiEFAzure_HostAddress = http://localhost:5193
+
+GET {{WebApiEFAzure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
